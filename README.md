@@ -1,2 +1,3 @@
-# Kartikey-C-69-Project
+# PRO C69 BARCODE SCANNER
+
 Bar Code Scanner App
